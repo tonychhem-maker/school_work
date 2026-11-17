@@ -1,0 +1,6 @@
+{
+  "name": "NVIDIA Blackwell — RTX 5090 Assembly & Architecture",
+  "description": "Interactive scroll-driven hardware assembly and internal component showcase for the NVIDIA Blackwell architecture and ROG Astral GeForce RTX 5090.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
